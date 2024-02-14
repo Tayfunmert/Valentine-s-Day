@@ -1,0 +1,5561 @@
+fileFormatVersion: 2
+guid: d53f528948ac30f4ea2501085f8293b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13127
+        width: 382
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad9cb2f3bb7fac4bb20109e614305d2
+      internalID: 257424782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 13121
+        width: 2991
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc8f24625d80cd46ad3fad19421ed29
+      internalID: 1591483528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 13127
+        width: 289
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1ac4cd810190141a6d6892d9dc9bae
+      internalID: -1517894865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 13121
+        width: 303
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a286c20b6d55242b0d1c4c441f1f3c
+      internalID: -897030320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 13121
+        width: 303
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09378574cf3d084fbb557c068645965
+      internalID: 736809463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 13121
+        width: 302
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d46819a5244a4a87e7c08e938aaf5
+      internalID: 1459047046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 13117
+        width: 319
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c60e7a471f9e4188e5f6a9ee6fe39
+      internalID: 1506198020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12743
+        width: 315
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52f561bce770c4eb0465c1776adb60
+      internalID: -893198010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 12746
+        width: 296
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f0dd9656c15f646b052832c66fc16b
+      internalID: -1649282666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 12746
+        width: 292
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf54b0a3ad4eb459835fb3564214fa
+      internalID: 1597005366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 12746
+        width: 194
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5037a666bd5b84196dec95802fa58c
+      internalID: -1763909710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 12746
+        width: 194
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50c40d1ef151144ca4b2f18d6956a32
+      internalID: -1414601565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 12749
+        width: 138
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3ae6974c9ec240bac15da04a4caec
+      internalID: -10041255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 12749
+        width: 138
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c071a988ed0f14393d71eb41dda556
+      internalID: 990720746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 12374
+        width: 138
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d310c85d67f58429fd0f2e7b0090e2
+      internalID: 1526058870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 12374
+        width: 142
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb93ce7ecef82a4d8f7ddf2aabb0925
+      internalID: -150785341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 12374
+        width: 125
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f378023d54abc24b82ffc3f86be519e
+      internalID: 1691020323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 12374
+        width: 128
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0db28dc90eb25643948d28e5b0b5751
+      internalID: 482171097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 12374
+        width: 132
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b86f2fbbb9d24a99406106f9eaba8
+      internalID: -2024397343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 12374
+        width: 134
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21044ad32291e62448521b1cb287c8bd
+      internalID: -1428241513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 12374
+        width: 135
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860ab9892622c8240aa4b24f14e4bddc
+      internalID: 1578937819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 12000
+        width: 132
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0851a12ff8bff4e4f91d25791e526dfc
+      internalID: 229526221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 12003
+        width: 135
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee58ca9dd107c24ab9c54635c6542cc
+      internalID: -1122245183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 12003
+        width: 135
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c589a748c0a7a6a4a87b37ec7aefbaa1
+      internalID: -1111990267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 12006
+        width: 145
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab0260f143020438d8ece1723c2e9c
+      internalID: 2028602116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 12006
+        width: 142
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c178b1bc3bcb4d8b48201a8971fa2
+      internalID: -1254382910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 12016
+        width: 135
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c770920878068e47bd3b2d15c9e31d8
+      internalID: -1058945227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 12016
+        width: 131
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfa1cb8691b7db42b890f17b0a4bfd5
+      internalID: -1912676921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11648
+        width: 128
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809a91d06c98a5a4482c8f2470abf071
+      internalID: 1926680621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 11648
+        width: 128
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46c3df7730412b4ba2a5d3174b0f4f2
+      internalID: -349775664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 11648
+        width: 122
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d131a2f43e3994c889207256b5f45c
+      internalID: 1411445881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 11648
+        width: 125
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a896418a0584e1449e0597164c5a8f3
+      internalID: -98551176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 11648
+        width: 131
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ae2c1dd7e374c4c91050459725f263
+      internalID: -2084739293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 11648
+        width: 128
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c53f08c501b874a9b3b1dbdc01ba28
+      internalID: -27556948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 11651
+        width: 145
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb9ad383c942e478b3a2855479319f
+      internalID: -2031668668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 11276
+        width: 144
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591ef4d0308b78f4d80d9df46ec0eae7
+      internalID: 482588253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 11280
+        width: 155
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b17fd3d448703b44b42ab37bef9f6e6
+      internalID: -1249347153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 11280
+        width: 155
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ccba2a5ae29a4c84f67ec2a8bd02a
+      internalID: 1617122096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 11276
+        width: 184
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b6e7bcc3dc3d543af3d10c562360e0
+      internalID: -401220410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 11276
+        width: 184
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76194792e35bbed48a8e2d058033fd57
+      internalID: -1098093731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 11276
+        width: 226
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5930d13e3537ba74f803d989eb491e62
+      internalID: -885876241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 11276
+        width: 227
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fff0fda73521e4da5223a62965f8ee
+      internalID: 1284242595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10902
+        width: 276
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d60abe5ecbd1a4cab13dcc862c0499
+      internalID: 573762216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 10902
+        width: 279
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f68b6b095cd7742acabd9eb089c2ba
+      internalID: 54756551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 10898
+        width: 319
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbf903732e9241499bb64848fce928f
+      internalID: 750568168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 10898
+        width: 318
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b39207cb501c4a8086a37cc1013f0
+      internalID: -835365040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 10895
+        width: 331
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01fc8fbbb8e4d549b86671121950389
+      internalID: 215846974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 10895
+        width: 335
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfe4e11d1553242b0e0a115f9b93da
+      internalID: -29902151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 10885
+        width: 325
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ffb1cfc09595049a7ab050b0915dee
+      internalID: 1785767798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10511
+        width: 322
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d64bad6e453d469005eabd6b2c92c
+      internalID: 764517084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 10504
+        width: 289
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b931895f4e4e40b6e440b87cda3a5
+      internalID: 1113790303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 10504
+        width: 292
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e65f0912dae444ea662fcb827e0b28
+      internalID: -715138318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 10504
+        width: 299
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef97f7175c1c8448a74591defffe1c
+      internalID: 1172696027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 10504
+        width: 296
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67eed033116774e93f32c0529a7e92
+      internalID: -1130150521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 10504
+        width: 316
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1257e574063761d4fb06684b3b926d05
+      internalID: -1181954963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 10504
+        width: 319
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eae17632c98c14d8527d85258d5fe1
+      internalID: -1186207502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 10130
+        width: 325
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62abde98d237b428ad4ed1feb73662
+      internalID: -196473121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 10130
+        width: 325
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807d7d9850bf2e4daa25ed58803344c
+      internalID: -1870885366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 10133
+        width: 339
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93784a102c728b4ead7c73d77e2ea10
+      internalID: 894099511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 10133
+        width: 338
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9855661d62d24dbae2a0a16273a53
+      internalID: 1212185274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 10130
+        width: 332
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4274ed55f62dc04abfc5395035bf812
+      internalID: -930346867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 10129
+        width: 335
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925a257b1bd681b4ab88eff200df1457
+      internalID: -1913630826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 10133
+        width: 303
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb246a6428739941a9473216abe9678
+      internalID: 1136715390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9758
+        width: 302
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c020cb14d8258f54199664b68fd7026c
+      internalID: 1559424164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 9758
+        width: 260
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7566059b0225754d875c904bbd1db77
+      internalID: -1400524529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 9758
+        width: 260
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d779a2f86666954aacadc87c1bb957d
+      internalID: 1603696130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 9758
+        width: 250
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc9d30377eb1514f9af58ac24e6f471
+      internalID: 2028973488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 9758
+        width: 250
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aa937b25de40547906a153ba044cbf
+      internalID: 650289535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 9758
+        width: 256
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44591068f071459409cf853c26929e38
+      internalID: -1118703999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 9758
+        width: 259
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b8090dbbb4c614b91a36f3e2aa3ba3
+      internalID: -1423962988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 9390
+        width: 256
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786ef1003c7c60f43842e2a91146b2cd
+      internalID: 610890350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 9390
+        width: 256
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104958a1f02a40545a9bdbc8d53cc0ef
+      internalID: -1773766162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 9403
+        width: 260
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86927c3967688aa4b89c88c9fc813fa2
+      internalID: -1027782266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 9403
+        width: 256
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96517d007569cb24db4fd476774c83da
+      internalID: 420726284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 9399
+        width: 253
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48534863ff3456c4385d29eb86f5be3f
+      internalID: 514154548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 9399
+        width: 253
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06b707fdf157c94b8a2d6ac45dd69bc
+      internalID: 171779799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 9390
+        width: 247
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592e9f9e37d2394e8bcd52a1b6fac35
+      internalID: -1245241817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9018
+        width: 249
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfbb539a76e571479b86d238bfd2075
+      internalID: -2044854421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 9018
+        width: 263
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11ce91718e08c54abb793923b5d32ff
+      internalID: -2067794807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 9018
+        width: 263
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d3c14fe2903a4b889db602282484e
+      internalID: -1643335514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 9018
+        width: 280
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203dabde0a72aa049886cb235ac9b59c
+      internalID: -651272550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 9018
+        width: 279
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6261b5def5f44ca7c66c8d7176bf4
+      internalID: 163112816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 9018
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64551201b4383c34388f6d975372622c
+      internalID: -421150417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 9018
+        width: 296
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376f49c05ef016498c6e5c7835125c6
+      internalID: -1364942157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 8643
+        width: 306
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c5d1c87dc66684b8011efd0e9c79a9
+      internalID: 1146720062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 8643
+        width: 309
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e996cbe537e104393cafd60d931c5d
+      internalID: 356568568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 8643
+        width: 316
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db145ecb5b6ca144b02252395f695ff
+      internalID: -596634200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 8643
+        width: 312
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9319e05e51baf49bfe823f26ccc694
+      internalID: -721525401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 8650
+        width: 329
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7108b5efef020c4ea6324d5da38fe23
+      internalID: 2011894534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 8650
+        width: 329
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea5a4b260317f84dac0013193b889ca
+      internalID: -295692643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 8650
+        width: 325
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34e57a6b98485c479291e630bff9bfb
+      internalID: 1290314556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8275
+        width: 321
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963608fc96752994c860b253c5cb9cbd
+      internalID: 250707804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 8279
+        width: 203
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226723765023286418b1a2d1a6666851
+      internalID: 925650272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 8279
+        width: 200
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36afafcee157a6c45bbd8fba5b571742
+      internalID: -1873155707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 8282
+        width: 138
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32bfb353dc88a042b20acf158312ab0
+      internalID: -1257800785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 8282
+        width: 138
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44262b7321ea424babe9b5b300650e1
+      internalID: 344823949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 8282
+        width: 135
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bdfcd21ac98d644b32508f2bcabd86
+      internalID: 1164756295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 8282
+        width: 135
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b0d150b79c864e8d4df908023bf5e
+      internalID: 421350688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 7884
+        width: 168
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a47c52a08747224e8ba132fb222c0df
+      internalID: 19725309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 7884
+        width: 167
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4bbd45df3c0fd4289d71f907972b57
+      internalID: 1872289898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 7884
+        width: 203
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4b5474aac8e5488e5d8a2ddac6460
+      internalID: 1041514791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 7884
+        width: 201
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48573b42e3f8524a87796c9b97a4491
+      internalID: -755772932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 7914
+        width: 197
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b2b403ced36744999930fc21db6360
+      internalID: -765617704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 7914
+        width: 198
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0ac6fcd0cb80349a15f82848bbb46a
+      internalID: 1257835056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 7917
+        width: 180
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb55a8facae5164ead69b82e77cb804
+      internalID: -1195815887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 7542
+        width: 184
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496e2d96eedda94296b5e69f2be512f
+      internalID: -261550153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 7542
+        width: 138
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee728611c309c343b4f6482e5743591
+      internalID: -1027475398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 7542
+        width: 135
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dde8a189794f24caeff6e80ea6848d
+      internalID: -1060305632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 7542
+        width: 138
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edbd169ae0619a419b3a6286462d89a
+      internalID: -1252232358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 7542
+        width: 135
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa40ea2c3cc1b634c8bc6db125b1c648
+      internalID: -208170514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 7539
+        width: 128
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba23b7c40a988245847b482bb868de5
+      internalID: 991243656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 7539
+        width: 128
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d1ab7f37dd2b49ab54c1b1397bfa8
+      internalID: 756500161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 7154
+        width: 121
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278fe61b1fe29a243a17bfcb6ba6307d
+      internalID: 481789850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 7154
+        width: 125
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f58071d224785246a80eae6c62ab575
+      internalID: 1873213360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 7148
+        width: 125
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d82eae2ba39e4882f3644b80ed998
+      internalID: 680656121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 7148
+        width: 128
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20b0df73f5679146b24709ddb6fea3a
+      internalID: 486400915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 7154
+        width: 135
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c527b6e5671324aab78e41441882d7
+      internalID: -1675646608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 7154
+        width: 135
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73854a7fb95011f49b5c3596d93c8cdc
+      internalID: -894541560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 7154
+        width: 134
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b58122ef7f05e48af714b758fb6cac
+      internalID: -2100884580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6783
+        width: 134
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fea856f7bcd7a4ab6d98426e307afc
+      internalID: 650067826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 6773
+        width: 135
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeba86bd928c354ea5211121b087707
+      internalID: 494208759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 6773
+        width: 138
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388fe7c685477ef48bf67cf9a4ab09b7
+      internalID: -141046267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 6780
+        width: 132
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f2a0b269ea1e48accb29f569f7d5d
+      internalID: 77369870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 6780
+        width: 128
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8317363e33b1d42b406ab517db4317
+      internalID: 1710916906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 6770
+        width: 122
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba22c941d5474714890a9e34897ecbfc
+      internalID: 1815411122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 6770
+        width: 124
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf0637265061a43bf5151e6b25a39d
+      internalID: 1516397981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6408
+        width: 138
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2886d48d1bfcb4b94264215d7e20c7
+      internalID: -218888784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 6408
+        width: 141
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f20811bf4e61a45a6eebdb0447593f
+      internalID: 2043108696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 6408
+        width: 158
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a282f9d06586624bb7f70df1b4015cc
+      internalID: 839658470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 6408
+        width: 155
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434c649412684f346af09c425db7dc59
+      internalID: 977214190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 6395
+        width: 204
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f73cf2d349d94f93bc235f3e0a208
+      internalID: 844942926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 6395
+        width: 201
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a48d1701329b248822138036f59c6a
+      internalID: -2034744206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 6395
+        width: 276
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be67b6cbd285a940a94b226b459152a
+      internalID: 1661029136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6020
+        width: 272
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa19eab491263645a7f0b74c98ebf11
+      internalID: 793940285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 6017
+        width: 280
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671128bccd24a1040a1101a85878ffa3
+      internalID: 614887383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 6017
+        width: 276
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3633cc689dc70429915c9ab5535505
+      internalID: -518193373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 6020
+        width: 305
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e17727d5883049b197bf3a54e10e1
+      internalID: -1425653057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 6020
+        width: 302
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94e34c7b07f6844b58c815272df728
+      internalID: 1322590913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 6020
+        width: 305
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1291fb3fa26a3334ca53987ecbf8db93
+      internalID: 271078967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 6020
+        width: 305
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6faa7e5fa06fbd45b6f7b70848022e4
+      internalID: 770381010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 5646
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2e800644cce0409463398a410d172
+      internalID: -877063607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 5646
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c233f82e9b97b0409d0abc9139cddd8
+      internalID: 1041088623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 5652
+        width: 234
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb98c4782d56be4bb2946137b0cbc08
+      internalID: -913718703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 5652
+        width: 233
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c12e426b86861d45a501d59f1fcc3a1
+      internalID: 1211382013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 5649
+        width: 220
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82504e656bd311541ab5a459461b735d
+      internalID: -58156865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 5649
+        width: 223
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ac5fceea5a18428bec09f408a518f
+      internalID: 962692265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 5646
+        width: 243
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f1de12ab549348ad0627029ac5543
+      internalID: 1312762832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5271
+        width: 240
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d814ed7d5ae52438bd24715481c6eb
+      internalID: 591051749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5271
+        width: 240
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaad61e7a98f2a469ad19510b6ca8f1
+      internalID: -1078898687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 5271
+        width: 243
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de360f9e8738214d98d091c9b01225f
+      internalID: -405651866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 5271
+        width: 253
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2fbd64adc268e4f9f4400e9c158f9c
+      internalID: -1932097953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 5271
+        width: 257
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dc80a85bceff549ab94134cb0f29c7
+      internalID: -1095636086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 5271
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd701d75e0af5041ae10ecf5864c128
+      internalID: 1368283166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 5271
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a184fd3d5af1a49925c257d3eb1fba
+      internalID: 299530122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4899
+        width: 292
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467f5ffe9e135ea4297a97194aa6de34
+      internalID: -2054400917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 4899
+        width: 292
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb0ae94547ae3b4d86c55c6ff5c73f2
+      internalID: -797012002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 4899
+        width: 286
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eced9f48de8405545a87cf18a309a880
+      internalID: -1849057144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 4899
+        width: 289
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e2cfd0186b964094d7ad5a39a213f
+      internalID: -488841515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 4899
+        width: 279
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc2df3e4dd90224286623eb83f34da4
+      internalID: -172848550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 4899
+        width: 279
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20654b5801a84c94ca6455e66e2d5fd2
+      internalID: 721604016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 4896
+        width: 286
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf6ff97af56f2c44a15fe2c4939da42
+      internalID: -928867695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4521
+        width: 283
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd52cc4e0ada3147aac1f80af875bcd
+      internalID: 1976600250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4528
+        width: 283
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa154aaa29d0ad438aafc21dad32d12
+      internalID: 1431142432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 4528
+        width: 282
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fa08cdec92db745a6536aa92ec31d6
+      internalID: 49597033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 4525
+        width: 280
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b953deefb2e144a17697263009ac6
+      internalID: -631576879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 4525
+        width: 283
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be86e955cdb0a4cac1d0a1cfbaf43e
+      internalID: -75782432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 4525
+        width: 273
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a97649375919dc47a5eb7d668ec11fa
+      internalID: -1066118889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 4525
+        width: 272
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e612d2698844c4fa777be9b6f87452
+      internalID: -915722942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4150
+        width: 263
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a683030cec022143ba00463338d04aa
+      internalID: -414937456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 4150
+        width: 260
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c1c8b7664a9044bbec805d8f8b0eb
+      internalID: -2105351266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 4150
+        width: 259
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0c481347199d47b269529c3506457
+      internalID: -1594937721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 4150
+        width: 260
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf35cef37dd6cb47933b29b60558180
+      internalID: 575289568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 4150
+        width: 246
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d29a0312f15f94c807d5f624879df3
+      internalID: 1489598154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 4150
+        width: 247
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd59cd3de475a84fad77626aa5d7306
+      internalID: -1303917806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 4157
+        width: 210
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686b2d7ac4cfe364c98bae740ee86334
+      internalID: -1031429714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3785
+        width: 210
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2723a2e1c59046e4dafe3d668f49860f
+      internalID: -521040913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3792
+        width: 174
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3797d61157a64496902a40a81f699
+      internalID: 943617122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3792
+        width: 178
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5530007fea1ea314294e0a4376ffcd02
+      internalID: 1769201162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3785
+        width: 184
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a21e4fa72b164fb418c7fce9c97c7
+      internalID: -798713662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3782
+        width: 184
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828640d8a1b741346ba9b5d7466ec7c8
+      internalID: 584794824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 3785
+        width: 204
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034f628da0ed7048899e23ad1dc9c49
+      internalID: 938964451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 3785
+        width: 203
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6412d294989bc1545b0768406ba5430c
+      internalID: 1724507680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3410
+        width: 233
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8e2bff4fe37c14ab2aeaee20a63d5c
+      internalID: -703590294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3410
+        width: 230
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf74b5ea84723a644aa37165e6c203a8
+      internalID: 270406846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 3410
+        width: 210
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801f895ea9005d34dabcc8f7c7e46a33
+      internalID: -1861816505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3410
+        width: 211
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb257745ed701419026ab7ddb7d40d
+      internalID: 518777144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 3410
+        width: 204
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b1b17de2a2b974f8377260f25a1e9d
+      internalID: 1618103187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 3410
+        width: 204
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4677aa6747ad91b43834ba5a9d055a58
+      internalID: 1717416030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 3410
+        width: 197
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ce5ffee2e9464e8f8ede456a63188
+      internalID: -231027926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3039
+        width: 200
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6213ddbeca60ac45bcec463b70861a5
+      internalID: -1047471288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 3039
+        width: 191
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425bea9315c65ad44b73e9a24459a636
+      internalID: 618576309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 3039
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b768f0fba10de419aa959d30e80ec0
+      internalID: -1769377646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 3036
+        width: 194
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833babfc9ffede468120c9e44da2124
+      internalID: -1580942326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 3036
+        width: 197
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f09c634b2d01347aeb0899f72d6a68
+      internalID: -979094445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 3039
+        width: 223
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a546858f61d8ca4ba692be966f4c45e
+      internalID: -732027850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 3039
+        width: 224
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ba4f74a8a7d9748abdb3d9a37bc2bc
+      internalID: -816901909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2667
+        width: 213
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33887db37db1f2b47b979a39e0dcf696
+      internalID: -1185617531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2667
+        width: 214
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def107da94f74ce40bf34c72c57cb932
+      internalID: -622853652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2667
+        width: 204
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc9c3f3e418ff46b953017bc6c13ce
+      internalID: 1683111047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2667
+        width: 207
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d33ec8990b10db40a4de0a4799b2d72
+      internalID: 633460334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2664
+        width: 184
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20505d216eb6c54989bbc933e06d2ca
+      internalID: 1095779728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2664
+        width: 181
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b669c6813c34094e9df674d4587d68c
+      internalID: 1673204068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 2661
+        width: 131
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa099322c6350f4bac4816ef68dc296
+      internalID: 891323567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2289
+        width: 134
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b13297ab5708dc4fb18eb470b95f119
+      internalID: 1333321482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2289
+        width: 132
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5d53264e96c9438d8b7e1043bf59d
+      internalID: -2044584315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2289
+        width: 128
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef58cd4970048584e86364d82b20ff93
+      internalID: 57074485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2289
+        width: 142
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb875e3dab41f4b907ab4732980890
+      internalID: -757721962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2289
+        width: 141
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04990a9062436a44971b305f1c23367
+      internalID: -5771929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 2289
+        width: 175
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df88f0423c41102498a513ff2e91459a
+      internalID: 441195773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 2293
+        width: 174
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec67de5154b29d548b2eeb52215ba754
+      internalID: -2004326543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1918
+        width: 200
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f757c51610858145bdd5e6d75b0f5b2
+      internalID: -87480113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1918
+        width: 198
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5d1668d93ffe4e865a2edcd262946
+      internalID: 1888002504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1915
+        width: 203
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ca00b5262dcc409e4c46208fe49cb
+      internalID: 912266546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1915
+        width: 204
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82fe6c03b270b44d97bcae00dfa5a9b
+      internalID: 95864630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1905
+        width: 216
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ac8699f7147a42a0ce94dc0b6ca69
+      internalID: -601951584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 1908
+        width: 214
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ebf4af3b344046985bde522e36522
+      internalID: 1406662472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1905
+        width: 191
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03ff5f04b9aba242b39ac8bf8ff8af0
+      internalID: 1839890240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1530
+        width: 194
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5832ac2f5129fde41a59d45e873f9da4
+      internalID: 769849433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1530
+        width: 177
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186f9d33a556d04d881a4891abdf84b
+      internalID: 1518393934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1530
+        width: 178
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562d9c670a67b44aa17b46e89d568b7
+      internalID: 1002024078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1530
+        width: 214
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd0f3f9b419454d846db53490eb44d
+      internalID: 1685524907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1530
+        width: 216
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399e7029895d93499319a73e7dd90e0
+      internalID: 1013890015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 1533
+        width: 214
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1d2b69a59fa049be1a7b892ab82dd
+      internalID: 1126636412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 1533
+        width: 214
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c3b5177e05604a8d05a80b4e98d21
+      internalID: 1263108885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1162
+        width: 190
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bbc73f12152bf479528d3f1341985c
+      internalID: 82340688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1162
+        width: 193
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a196e8ea60d6744ade52d7661de2e4
+      internalID: -964851125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1169
+        width: 135
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db38513c5a7a546aec6003abcbc978
+      internalID: -1886932829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1169
+        width: 135
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1649c9654d31184581c106979f7977d
+      internalID: -1401536670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1169
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d59bdf55db7d8c4fa6b2993a8280538
+      internalID: -504199041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1169
+        width: 147
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cacbfc279e130d479fbc0285a1a62cb
+      internalID: -921660502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 1169
+        width: 174
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be915ee01d795bc4eaea26b18bf6be44
+      internalID: -1224830512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 794
+        width: 174
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bcae6e8d9701a4cb66ed944b202603
+      internalID: 2050758965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 797
+        width: 207
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566662524d1767547a3ae1a17ac85bd7
+      internalID: -841778567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 797
+        width: 207
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc8bdafbc9c1dd42ac515bd266cdb48
+      internalID: -1291147918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 797
+        width: 233
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2db89a7adc8d09469406e142ae3e75a
+      internalID: -629892844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 797
+        width: 233
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a1ae36654cdbc4cb5e21c5381c852e
+      internalID: 1439562688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 797
+        width: 244
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332100c7928cb254f8e7d6757b67be56
+      internalID: 314440610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 797
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c8600d12cccf4ba862a495d982de3
+      internalID: 923222188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 422
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a121a8033184c44b85f08259faf24f6
+      internalID: 1564926808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 422
+        width: 223
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dedbb8cdd7a2b4882518ae29fa7292
+      internalID: -1068063734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_240
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 422
+        width: 223
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a4193459a04948a962086cacc0b46
+      internalID: 2121292690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_241
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 422
+        width: 223
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a0576ffb500541b7c49ea4bf5e087
+      internalID: 2049593504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_242
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 422
+        width: 250
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22ff13ef51131f44bb4152480e02484
+      internalID: 1420996353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_243
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 422
+        width: 253
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d8a08281fd66343abdf6a17830b3fe
+      internalID: 356654723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_244
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 422
+        width: 233
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af082fd1a1d8a4fad9d59a609879a9
+      internalID: 1866848517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 353
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ab009983c11943b5785fdb0746d20
+      internalID: -960301488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toothless Dragon Spritesheet_246
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 2992
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1d66e032dcfb429d198e715538b99
+      internalID: 1772641570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Toothless Dragon Spritesheet_0: 257424782
+      Toothless Dragon Spritesheet_1: 1591483528
+      Toothless Dragon Spritesheet_10: -1763909710
+      Toothless Dragon Spritesheet_100: 1041514791
+      Toothless Dragon Spritesheet_101: -755772932
+      Toothless Dragon Spritesheet_102: -765617704
+      Toothless Dragon Spritesheet_103: 1257835056
+      Toothless Dragon Spritesheet_104: -1195815887
+      Toothless Dragon Spritesheet_105: -261550153
+      Toothless Dragon Spritesheet_106: -1027475398
+      Toothless Dragon Spritesheet_107: -1060305632
+      Toothless Dragon Spritesheet_108: -1252232358
+      Toothless Dragon Spritesheet_109: -208170514
+      Toothless Dragon Spritesheet_11: -1414601565
+      Toothless Dragon Spritesheet_110: 991243656
+      Toothless Dragon Spritesheet_111: 756500161
+      Toothless Dragon Spritesheet_112: 481789850
+      Toothless Dragon Spritesheet_113: 1873213360
+      Toothless Dragon Spritesheet_114: 680656121
+      Toothless Dragon Spritesheet_115: 486400915
+      Toothless Dragon Spritesheet_116: -1675646608
+      Toothless Dragon Spritesheet_117: -894541560
+      Toothless Dragon Spritesheet_118: -2100884580
+      Toothless Dragon Spritesheet_119: 650067826
+      Toothless Dragon Spritesheet_12: -10041255
+      Toothless Dragon Spritesheet_120: 494208759
+      Toothless Dragon Spritesheet_121: -141046267
+      Toothless Dragon Spritesheet_122: 77369870
+      Toothless Dragon Spritesheet_123: 1710916906
+      Toothless Dragon Spritesheet_124: 1815411122
+      Toothless Dragon Spritesheet_125: 1516397981
+      Toothless Dragon Spritesheet_126: -218888784
+      Toothless Dragon Spritesheet_127: 2043108696
+      Toothless Dragon Spritesheet_128: 839658470
+      Toothless Dragon Spritesheet_129: 977214190
+      Toothless Dragon Spritesheet_13: 990720746
+      Toothless Dragon Spritesheet_130: 844942926
+      Toothless Dragon Spritesheet_131: -2034744206
+      Toothless Dragon Spritesheet_132: 1661029136
+      Toothless Dragon Spritesheet_133: 793940285
+      Toothless Dragon Spritesheet_134: 614887383
+      Toothless Dragon Spritesheet_135: -518193373
+      Toothless Dragon Spritesheet_136: -1425653057
+      Toothless Dragon Spritesheet_137: 1322590913
+      Toothless Dragon Spritesheet_138: 271078967
+      Toothless Dragon Spritesheet_139: 770381010
+      Toothless Dragon Spritesheet_14: 1526058870
+      Toothless Dragon Spritesheet_140: -877063607
+      Toothless Dragon Spritesheet_141: 1041088623
+      Toothless Dragon Spritesheet_142: -913718703
+      Toothless Dragon Spritesheet_143: 1211382013
+      Toothless Dragon Spritesheet_144: -58156865
+      Toothless Dragon Spritesheet_145: 962692265
+      Toothless Dragon Spritesheet_146: 1312762832
+      Toothless Dragon Spritesheet_147: 591051749
+      Toothless Dragon Spritesheet_148: -1078898687
+      Toothless Dragon Spritesheet_149: -405651866
+      Toothless Dragon Spritesheet_15: -150785341
+      Toothless Dragon Spritesheet_150: -1932097953
+      Toothless Dragon Spritesheet_151: -1095636086
+      Toothless Dragon Spritesheet_152: 1368283166
+      Toothless Dragon Spritesheet_153: 299530122
+      Toothless Dragon Spritesheet_154: -2054400917
+      Toothless Dragon Spritesheet_155: -797012002
+      Toothless Dragon Spritesheet_156: -1849057144
+      Toothless Dragon Spritesheet_157: -488841515
+      Toothless Dragon Spritesheet_158: -172848550
+      Toothless Dragon Spritesheet_159: 721604016
+      Toothless Dragon Spritesheet_16: 1691020323
+      Toothless Dragon Spritesheet_160: -928867695
+      Toothless Dragon Spritesheet_161: 1976600250
+      Toothless Dragon Spritesheet_162: 1431142432
+      Toothless Dragon Spritesheet_163: 49597033
+      Toothless Dragon Spritesheet_164: -631576879
+      Toothless Dragon Spritesheet_165: -75782432
+      Toothless Dragon Spritesheet_166: -1066118889
+      Toothless Dragon Spritesheet_167: -915722942
+      Toothless Dragon Spritesheet_168: -414937456
+      Toothless Dragon Spritesheet_169: -2105351266
+      Toothless Dragon Spritesheet_17: 482171097
+      Toothless Dragon Spritesheet_170: -1594937721
+      Toothless Dragon Spritesheet_171: 575289568
+      Toothless Dragon Spritesheet_172: 1489598154
+      Toothless Dragon Spritesheet_173: -1303917806
+      Toothless Dragon Spritesheet_174: -1031429714
+      Toothless Dragon Spritesheet_175: -521040913
+      Toothless Dragon Spritesheet_176: 943617122
+      Toothless Dragon Spritesheet_177: 1769201162
+      Toothless Dragon Spritesheet_178: -798713662
+      Toothless Dragon Spritesheet_179: 584794824
+      Toothless Dragon Spritesheet_18: -2024397343
+      Toothless Dragon Spritesheet_180: 938964451
+      Toothless Dragon Spritesheet_181: 1724507680
+      Toothless Dragon Spritesheet_182: -703590294
+      Toothless Dragon Spritesheet_183: 270406846
+      Toothless Dragon Spritesheet_184: -1861816505
+      Toothless Dragon Spritesheet_185: 518777144
+      Toothless Dragon Spritesheet_186: 1618103187
+      Toothless Dragon Spritesheet_187: 1717416030
+      Toothless Dragon Spritesheet_188: -231027926
+      Toothless Dragon Spritesheet_189: -1047471288
+      Toothless Dragon Spritesheet_19: -1428241513
+      Toothless Dragon Spritesheet_190: 618576309
+      Toothless Dragon Spritesheet_191: -1769377646
+      Toothless Dragon Spritesheet_192: -1580942326
+      Toothless Dragon Spritesheet_193: -979094445
+      Toothless Dragon Spritesheet_194: -732027850
+      Toothless Dragon Spritesheet_195: -816901909
+      Toothless Dragon Spritesheet_196: -1185617531
+      Toothless Dragon Spritesheet_197: -622853652
+      Toothless Dragon Spritesheet_198: 1683111047
+      Toothless Dragon Spritesheet_199: 633460334
+      Toothless Dragon Spritesheet_2: -1517894865
+      Toothless Dragon Spritesheet_20: 1578937819
+      Toothless Dragon Spritesheet_200: 1095779728
+      Toothless Dragon Spritesheet_201: 1673204068
+      Toothless Dragon Spritesheet_202: 891323567
+      Toothless Dragon Spritesheet_203: 1333321482
+      Toothless Dragon Spritesheet_204: -2044584315
+      Toothless Dragon Spritesheet_205: 57074485
+      Toothless Dragon Spritesheet_206: -757721962
+      Toothless Dragon Spritesheet_207: -5771929
+      Toothless Dragon Spritesheet_208: 441195773
+      Toothless Dragon Spritesheet_209: -2004326543
+      Toothless Dragon Spritesheet_21: 229526221
+      Toothless Dragon Spritesheet_210: -87480113
+      Toothless Dragon Spritesheet_211: 1888002504
+      Toothless Dragon Spritesheet_212: 912266546
+      Toothless Dragon Spritesheet_213: 95864630
+      Toothless Dragon Spritesheet_214: -601951584
+      Toothless Dragon Spritesheet_215: 1406662472
+      Toothless Dragon Spritesheet_216: 1839890240
+      Toothless Dragon Spritesheet_217: 769849433
+      Toothless Dragon Spritesheet_218: 1518393934
+      Toothless Dragon Spritesheet_219: 1002024078
+      Toothless Dragon Spritesheet_22: -1122245183
+      Toothless Dragon Spritesheet_220: 1685524907
+      Toothless Dragon Spritesheet_221: 1013890015
+      Toothless Dragon Spritesheet_222: 1126636412
+      Toothless Dragon Spritesheet_223: 1263108885
+      Toothless Dragon Spritesheet_224: 82340688
+      Toothless Dragon Spritesheet_225: -964851125
+      Toothless Dragon Spritesheet_226: -1886932829
+      Toothless Dragon Spritesheet_227: -1401536670
+      Toothless Dragon Spritesheet_228: -504199041
+      Toothless Dragon Spritesheet_229: -921660502
+      Toothless Dragon Spritesheet_23: -1111990267
+      Toothless Dragon Spritesheet_230: -1224830512
+      Toothless Dragon Spritesheet_231: 2050758965
+      Toothless Dragon Spritesheet_232: -841778567
+      Toothless Dragon Spritesheet_233: -1291147918
+      Toothless Dragon Spritesheet_234: -629892844
+      Toothless Dragon Spritesheet_235: 1439562688
+      Toothless Dragon Spritesheet_236: 314440610
+      Toothless Dragon Spritesheet_237: 923222188
+      Toothless Dragon Spritesheet_238: 1564926808
+      Toothless Dragon Spritesheet_239: -1068063734
+      Toothless Dragon Spritesheet_24: 2028602116
+      Toothless Dragon Spritesheet_240: 2121292690
+      Toothless Dragon Spritesheet_241: 2049593504
+      Toothless Dragon Spritesheet_242: 1420996353
+      Toothless Dragon Spritesheet_243: 356654723
+      Toothless Dragon Spritesheet_244: 1866848517
+      Toothless Dragon Spritesheet_245: -960301488
+      Toothless Dragon Spritesheet_246: 1772641570
+      Toothless Dragon Spritesheet_25: -1254382910
+      Toothless Dragon Spritesheet_26: -1058945227
+      Toothless Dragon Spritesheet_27: -1912676921
+      Toothless Dragon Spritesheet_28: 1926680621
+      Toothless Dragon Spritesheet_29: -349775664
+      Toothless Dragon Spritesheet_3: -897030320
+      Toothless Dragon Spritesheet_30: 1411445881
+      Toothless Dragon Spritesheet_31: -98551176
+      Toothless Dragon Spritesheet_32: -2084739293
+      Toothless Dragon Spritesheet_33: -27556948
+      Toothless Dragon Spritesheet_34: -2031668668
+      Toothless Dragon Spritesheet_35: 482588253
+      Toothless Dragon Spritesheet_36: -1249347153
+      Toothless Dragon Spritesheet_37: 1617122096
+      Toothless Dragon Spritesheet_38: -401220410
+      Toothless Dragon Spritesheet_39: -1098093731
+      Toothless Dragon Spritesheet_4: 736809463
+      Toothless Dragon Spritesheet_40: -885876241
+      Toothless Dragon Spritesheet_41: 1284242595
+      Toothless Dragon Spritesheet_42: 573762216
+      Toothless Dragon Spritesheet_43: 54756551
+      Toothless Dragon Spritesheet_44: 750568168
+      Toothless Dragon Spritesheet_45: -835365040
+      Toothless Dragon Spritesheet_46: 215846974
+      Toothless Dragon Spritesheet_47: -29902151
+      Toothless Dragon Spritesheet_48: 1785767798
+      Toothless Dragon Spritesheet_49: 764517084
+      Toothless Dragon Spritesheet_5: 1459047046
+      Toothless Dragon Spritesheet_50: 1113790303
+      Toothless Dragon Spritesheet_51: -715138318
+      Toothless Dragon Spritesheet_52: 1172696027
+      Toothless Dragon Spritesheet_53: -1130150521
+      Toothless Dragon Spritesheet_54: -1181954963
+      Toothless Dragon Spritesheet_55: -1186207502
+      Toothless Dragon Spritesheet_56: -196473121
+      Toothless Dragon Spritesheet_57: -1870885366
+      Toothless Dragon Spritesheet_58: 894099511
+      Toothless Dragon Spritesheet_59: 1212185274
+      Toothless Dragon Spritesheet_6: 1506198020
+      Toothless Dragon Spritesheet_60: -930346867
+      Toothless Dragon Spritesheet_61: -1913630826
+      Toothless Dragon Spritesheet_62: 1136715390
+      Toothless Dragon Spritesheet_63: 1559424164
+      Toothless Dragon Spritesheet_64: -1400524529
+      Toothless Dragon Spritesheet_65: 1603696130
+      Toothless Dragon Spritesheet_66: 2028973488
+      Toothless Dragon Spritesheet_67: 650289535
+      Toothless Dragon Spritesheet_68: -1118703999
+      Toothless Dragon Spritesheet_69: -1423962988
+      Toothless Dragon Spritesheet_7: -893198010
+      Toothless Dragon Spritesheet_70: 610890350
+      Toothless Dragon Spritesheet_71: -1773766162
+      Toothless Dragon Spritesheet_72: -1027782266
+      Toothless Dragon Spritesheet_73: 420726284
+      Toothless Dragon Spritesheet_74: 514154548
+      Toothless Dragon Spritesheet_75: 171779799
+      Toothless Dragon Spritesheet_76: -1245241817
+      Toothless Dragon Spritesheet_77: -2044854421
+      Toothless Dragon Spritesheet_78: -2067794807
+      Toothless Dragon Spritesheet_79: -1643335514
+      Toothless Dragon Spritesheet_8: -1649282666
+      Toothless Dragon Spritesheet_80: -651272550
+      Toothless Dragon Spritesheet_81: 163112816
+      Toothless Dragon Spritesheet_82: -421150417
+      Toothless Dragon Spritesheet_83: -1364942157
+      Toothless Dragon Spritesheet_84: 1146720062
+      Toothless Dragon Spritesheet_85: 356568568
+      Toothless Dragon Spritesheet_86: -596634200
+      Toothless Dragon Spritesheet_87: -721525401
+      Toothless Dragon Spritesheet_88: 2011894534
+      Toothless Dragon Spritesheet_89: -295692643
+      Toothless Dragon Spritesheet_9: 1597005366
+      Toothless Dragon Spritesheet_90: 1290314556
+      Toothless Dragon Spritesheet_91: 250707804
+      Toothless Dragon Spritesheet_92: 925650272
+      Toothless Dragon Spritesheet_93: -1873155707
+      Toothless Dragon Spritesheet_94: -1257800785
+      Toothless Dragon Spritesheet_95: 344823949
+      Toothless Dragon Spritesheet_96: 1164756295
+      Toothless Dragon Spritesheet_97: 421350688
+      Toothless Dragon Spritesheet_98: 19725309
+      Toothless Dragon Spritesheet_99: 1872289898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
